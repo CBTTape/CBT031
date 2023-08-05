@@ -1,0 +1,5 @@
+2023-08-06 00:28:32.863705 - Initialized conversion of CBT031
+2023-08-06 00:28:32.885371 - Received CBT.V505.FILE031.PDS from FILE031.XMI 
+2023-08-06 00:28:32.887494 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE031.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:28:32.888441 - Found @FILE031.txt (text/plain) in CBT.V505.FILE031.PDS, moved to PDS/@FILE031
+2023-08-06 00:28:32.889335 - Found IGGPRE00.txt (text/plain) in CBT.V505.FILE031.PDS, moved to PDS/IGGPRE00
